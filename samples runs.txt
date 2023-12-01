@@ -1,0 +1,17 @@
+C:\Users\hoang\AppData\Local\Microsoft\WindowsApps\python3.11.exe "C:\~studySAIT\~Object Oriented Programming 1 CPRG 216 N\~asg Project LAst part 1\coding part\try to submit\submitnotouch\OOP_final\test_appointment.py" 
+Scheduled appointment records:
+Harvey,403-233-3944,1,Saturday,9
+Sara,403-233-3945,4,Saturday,10
+Jenny,403-867-5309,2,Saturday,12
+
+
+Client Name         Phone          Day       Start     End       Type                
+Harvey             403-233-3944     Saturday     9 - 10   Mens Cut             
+                                    Saturday    10 - 11   Available                     
+                                    Saturday    11 - 12   Available                     
+Jenny              403-867-5309     Saturday    12 - 13   Ladies Cut           
+                                    Saturday    13 - 14   Available                     
+                                    Saturday    14 - 15   Available                     
+                                    Saturday    15 - 16   Available                     
+
+Process finished with exit code 0
